@@ -1,6 +1,6 @@
 # InHouseXR skills for Claude
 
-![Install the InHouseXR skills for Claude](social.png)
+![Install the InHouseXR skills for Claude](docs/inhousexr-claude-skills-v2.png)
 
 Skills that teach Claude how to build on InHouseXR (IHXR) platforms such as SapphireXR.
 
